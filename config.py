@@ -12,27 +12,27 @@ id_pattern = re.compile(r'^.\d+$')
 # --
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", "")
-    API_HASH  = os.environ.get("API_HASH", "")
+    API_ID    = os.environ.get("API_ID", "37297594")
+    API_HASH  = os.environ.get("API_HASH", "5ff29abc57a9233e50677f26164a5e1a")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
     PORT = os.environ.get("PORT", "8980")
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "RexBots")     
-    DB_URL  = os.environ.get("DB_URL", "")
+    DB_URL  = os.environ.get("DB_URL", "mongodb+srv://amileaamazar_db_user:T033Ix1RZWtsnsfW@cluster0.hr41nqp.mongodb.net/?appName=Cluster0")
  
     # other configs
-    ADMIN_URL = "https://t.me/adityaabhinav"
+    ADMIN_URL = "https://t.me/Leecher1"
     DUMP_CHANNEL = os.environ.get("DUMP_CHANNEL", "-1002257657458")
-    DUMP = True
+    DUMP = False
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "https://ibb.co/Cs0zsrCn")
     LEADERBOARD_PIC = os.environ.get("LEADERBOARD_PIC", "https://ibb.co/RGx4RmDg")
-    OWNER_ID = int(os.environ.get("OWNER_ID", "6701907262"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "-1003840330618"))
     SUPPORT_CHAT = int(os.environ.get("SUPPORT_CHAT", "-1002871570975"))
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003840330618"))
     FSUB_PIC = os.environ.get("FSUB_PIC", "")
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Websitedemobot")
     LEADERBOARD_DELETE_TIMER = 30
     # wes response configuration     
     WEBHOOK = bool(os.environ.get("WEBHOOK", "True"))
