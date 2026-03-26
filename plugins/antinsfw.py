@@ -2,11 +2,11 @@ nsfw_keywords = {
     "general": [
         "sex", "nude", "naked", "boobs", "tits", "pussy", "dick", "cock", "ass",
         "fuck", "blowjob", "cum", "orgasm", "shemale", "erotic", "masturbate", "anal",
-        "hardcore", "bdsm", "fetish", "lingerie", "xxx", "milf", "gay", "lesbian",
+        "hardcore", "bdsm", "fetish", "lingerie", "milf", "gay", "lesbian",
         "threesome", "squirting", "butt plug", "dildo", "vibrator", "escort", "handjob",
         "striptease", "kinky", "pornstar", "sex tape", "spank", "swinger", "taboo", "cumshot",
         "deepthroat", "domination", "submission", "handcuffs", "orgy", "roleplay", "sex toy",
-        "voyeur", "cosplay", "adult", "culture", "pornhwa",
+        "voyeur", "cosplay", "culture", "pornhwa",
         "netorare", "netori", "netorase", "eromanga", "incest", "stepmom", "stepdad",
         "stepsister", "stepbrother", "stepson", "stepdaughter", "ntr", "gangbang",
         "facial", "golden shower", "pegging", "rimming", "rough sex", "dirty talk",
