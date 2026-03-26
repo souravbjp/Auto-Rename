@@ -4,7 +4,7 @@ nsfw_keywords = {
         "fuck", "blowjob", "cum", "orgasm", "shemale", "erotic", "masturbate", "anal",
         "hardcore", "bdsm", "fetish", "lingerie", "milf", "gay", "lesbian",
         "threesome", "squirting", "butt plug", "dildo", "vibrator", "escort", "handjob",
-        "striptease", "kinky", "pornstar", "sex tape", "spank", "swinger", "taboo", "cumshot",
+        "striptease", "kinky", "sex tape", "spank", "swinger", "taboo", "cumshot",
         "deepthroat", "domination", "submission", "handcuffs", "orgy", "roleplay", "sex toy",
         "voyeur", "cosplay", "culture", "pornhwa",
         "netorare", "netori", "netorase", "eromanga", "incest", "stepmom", "stepdad",
@@ -35,7 +35,7 @@ nsfw_keywords = {
         "twerk", "breasts", "penis", "vagina", "clitoris", "genitals", "sexual", "kamasutra",
         "incest", "pedo", "rape", "sex slave", "bondage", "creampie", "cum inside", "sex doll",
         "sex machine", "latex", "oral sex", "cumshot", "deepthroat", "domination", "submission",
-        "handcuffs", "orgy", "roleplay", "sex toy", "voyeur", "cosplay", "adult", "culture",
+        "handcuffs", "orgy", "roleplay", "sex toy", "voyeur", "cosplay", "culture",
         "anal", "erotic", "masturbate", "hardcore", "bdsm", "fetish", "lingerie", "milf", "taboo"
     ]
 }
